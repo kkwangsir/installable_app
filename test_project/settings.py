@@ -37,6 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'mighty_subscribe.mighty_payment',
+    'mighty_subscribe.mighty_profile'
 ]
 
 MIDDLEWARE = [
