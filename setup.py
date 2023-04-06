@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='polls_mightyoaks',
+    name='mighty_subscribe',
     version='0.1',
     description='for testing installation of a package',
     author='Jacob',
