@@ -6,7 +6,7 @@ setup(
     description='for testing installation of a package',
     author='Jacob',
     author_email='jwang@mightyoaks.com',
-    packages=['polls',],
+    packages=['mighty_subscribe',],
     classifiers=[
         'Framework :: Django',
         'Programming Language :: Python :: 3',
